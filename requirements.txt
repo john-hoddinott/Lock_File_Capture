@@ -1,0 +1,9 @@
+ImageHash==4.3.2
+markdown-it-py==3.0.0
+mdurl==0.1.2
+numpy==2.2.5
+pillow==11.2.1
+Pygments==2.19.1
+PyWavelets==1.8.0
+rich==14.0.0
+scipy==1.15.3
